@@ -1,4 +1,4 @@
 ## Design 
 
-   - Behavioral Diagram
+   - Flow Diagram
    - Block Diagram
